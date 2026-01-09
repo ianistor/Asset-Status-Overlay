@@ -1,4 +1,4 @@
-To submit a bug go to Issues and add  ***New Issue*** 
+To submit a bug go to Issues and first check if your issue is already reported, if not you can press  ***New Issue*** and copy paste the below text and modify it.
 
 ## Title: [BUG]*Insert short summary here
 
